@@ -32,4 +32,6 @@ This project not only solidifies basic programming skills but also introduces th
 
 
 *OUTPUT*
-
+![Image](https://github.com/user-attachments/assets/c5365465-ab6d-46cd-95aa-0dfa48427b72)
+![Image](https://github.com/user-attachments/assets/213674f4-bf6a-4296-80a5-51ad88b12ae9)
+![Image](https://github.com/user-attachments/assets/d0c8fe7c-7b4a-40d6-84da-b3ce3cc33806)
